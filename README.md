@@ -1,9 +1,9 @@
-
-![Twitter](https://i.imgur.com/Bmx4iFV.png) NeroPako
-##### 22 | he/him | ![Italy](https://img.icons8.com/fluency/28/null/italy-circular.png)
-###### Links
+# NeroPako
+![Twitter](https://i.imgur.com/Bmx4iFV.png)
+### 22 | he/him | Italian
+#### Links
  [![Twitter](https://img.icons8.com/fluency/28/null/twitter.png)](https://twitter.com/nero_pako) | [![Discord](https://img.icons8.com/fluency/28/null/discord.png)](https://discord.com/users/250864719181643790) | [![Othello](https://img.icons8.com/offices/24/null/checkers.png)](http://wars.fm/reversi#user/tom0da) | [![Overwatch](https://img.icons8.com/color/28/null/overwatch--v1.png)](https://playoverwatch.com/en-us/career/pc/NeroPako-2725/) | [![Project Sekai](https://img.icons8.com/color/24/null/hatsune-miku.png)](https://profile.pjsekai.moe/#/user/86115570734448650) | [![MyAnimeList](https://imgur.com/xBwBg3i.png)](https://myanimelist.net/profile/neropako) | [![Spotify](https://img.icons8.com/fluency/28/null/spotify.png)](https://open.spotify.com/user/31na63w5bcabctdk6bw6mt4re4y4?si=bf5a28ff0dde4feb) | [![Github](https://img.icons8.com/fluency/28/null/github.png)](https://github.com/NeroOpako) 
-######  Bio
+#### Bio
   Software engineer and anime watcher. I play and follow Othello, Overwatch, Project Sekai, Hypnosis Mic. 
 
  **[![Project Sekai](https://img.icons8.com/color/24/null/hatsune-miku.png)](https://profile.pjsekai.moe/#/user/86115570734448650) Project Sekai** - Been playing since May '21, I like VBS the most, especially Toya (CR 50) and An (CR 44). Some Fav OC songs are Beat Eater, Utsuro wo aogu, Awake Now, Infinitely Gray, Bug, Lower, Parasol Cider, Stella, 88. Some fav Vocaloid songs are Tokio Funka, Leia, Cendrillion, Magic Number, Sick of House, Oneself. 
