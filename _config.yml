@@ -1,9 +1,9 @@
+markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-  markdown: 'kramdown'
 include:
   - CONTRIBUTING.md
   - README.md
