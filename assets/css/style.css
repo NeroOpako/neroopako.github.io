@@ -1,5 +1,5 @@
 @import "{{ site.theme }}";
 
-header, h1:has([href="https://bio.neropako.im/"]) {
+header {
   display: none;
 }
