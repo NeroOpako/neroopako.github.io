@@ -1,5 +1,6 @@
 title: ""
 markdown: kramdown
+theme: minimal
 plugins:
   - jekyll-relative-links
 relative_links:
