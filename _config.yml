@@ -1,9 +1,10 @@
+title: ""
 markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: true
-  collections: true
+  enabled: false
+  collections: false
 include:
   - CONTRIBUTING.md
   - README.md
