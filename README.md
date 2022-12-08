@@ -15,3 +15,4 @@
  **[![Spotify](https://img.icons8.com/fluency/24/null/spotify.png)](https://open.spotify.com/user/31na63w5bcabctdk6bw6mt4re4y4?si=bf5a28ff0dde4feb) Music** - I listen to pretty much everything, from Pop, Electronica, Ambient, J-Pop, Rock, Metal and Classical. My fav band is Linkin Park, my fav song by them is Waiting for the End, though Iridescent is a close second. Other bands/artists I like are Insomnium (Metal), Ludovico Einaudi (Classical), One Ok Rock (Rock), Creepy Nuts (J-Pop), Faux Tales (Electronica), Dead Battery (Ambient). 
 
  **[![Github](https://img.icons8.com/fluency/24/null/github.png)](https://github.com/NeroOpako) Software Engineering** - Not doing as many projects as I'd like to cause of work, but I mostly work with Java. Got the Android Developer Certification last year, always looking for new stuff to do. Last project I made was a Nextcloud rss reader for Win10/11. 
+ 
