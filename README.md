@@ -1,5 +1,6 @@
 ---
 layout: darkmode
+permalink: index.html
 ---
 
 # NeroPako
