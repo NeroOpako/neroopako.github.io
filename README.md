@@ -2,8 +2,6 @@
 layout: darkmode
 permalink: index.html
 ---
-
-# NeroPako
 ![Twitter](https://i.imgur.com/Bmx4iFV.png)
 ### 22 | he/him | Italian
 #### Links
