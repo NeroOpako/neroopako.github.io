@@ -4,3 +4,7 @@
          color: #ffffff;
     }
 }
+
+img {
+    background-color: none !important;
+}
