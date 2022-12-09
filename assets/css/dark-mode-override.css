@@ -5,6 +5,6 @@
     }
 }
 
-img {
-    background-color: none !important;
+.markdown-body img {
+    background-color: transparent;
 }
