@@ -10,7 +10,7 @@ permalink: index.html
 #### Bio
   Software engineer and anime watcher. I play and follow Othello, Overwatch, Project Sekai, Hypnosis Mic. 
 
- **[![Project Sekai](https://img.icons8.com/color/24/null/hatsune-miku.png)](https://profile.pjsekai.moe/#/user/86115570734448650) Project Sekai** - Been playing since May '21, I like VBS the most, especially Toya (CR 50) and An (CR 44). Some Fav OC songs are Beat Eater, Utsuro wo aogu, Awake Now, Infinitely Gray, Bug, Lower, Parasol Cider, Stella, 88. Some fav Vocaloid songs are Tokio Funka, Leia, Cendrillion, Magic Number, Sick of House, Oneself. 
+ **[![Project Sekai](https://img.icons8.com/color/24/null/hatsune-miku.png)](https://profile.pjsekai.moe/#/user/86115570734448650) Project Sekai** - Been playing since May '21, I like VBS the most, especially Toya (CR 50) and An (CR 45). Some Fav OC songs are Beat Eater, Utsuro wo aogu, Awake Now, Infinitely Gray, Bug, Lower, Parasol Cider, Stella, 88. Some fav Vocaloid songs are Tokio Funka, Leia, Cendrillion, Magic Number, Sick of House, Oneself. 
 
  **[![Overwatch](https://img.icons8.com/color/24/null/overwatch--v1.png)](https://playoverwatch.com/en-us/career/pc/NeroPako-2725/) Overwatch** - Was a Lucio main, now I mostly play Pharah. I play QP/Arcade only, I'm around mid-bronze/low-silver level. Been playing since 2018, though I deleted my old acc and made a new one around the end of 2021. 
 
