@@ -1,5 +1,5 @@
 name: neropako
-title: "NeroPako"
+title: "neropako"
 markdown: kramdown
 plugins:
   - jekyll-relative-links
