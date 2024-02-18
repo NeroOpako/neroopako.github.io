@@ -27,6 +27,10 @@ I’m always down for some recs!
 
 I listen to pretty much everything, from Pop, Electronica, J-Pop, Rock, Metal. My fav band is **Linkin Park**, my fav song by them is Waiting for the End, though Iridescent is a close second. Other bands/artists I like are **Insomnium** (Metal), **One Ok Rock** (Rock), **Creepy Nuts** (**J**-Rap), **Faux Tales** (Electronica).
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JHNg1hxZFT7TDEphhM4wj?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 ### 💻SW Dev
 
 Not doing as many projects as I’d like to cause of work, but I mostly work with Java. Got the Android Developer Certification a couple years ago, I'm always looking for new stuff to do. Last project I made was a Nextcloud rss reader for Win10/11.
