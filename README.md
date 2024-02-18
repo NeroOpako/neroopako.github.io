@@ -3,7 +3,8 @@ layout: darkmode
 permalink: index.html
 ---
 # 👨‍💻Hello there!
-![Twitter](https://i.imgur.com/dyK4ro9.png)
+![avatar](https://images.weserv.nl/?url=i.imgur.com/dyK4ro9.png?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
+)
 
 🧑 I'm **neropako**/nero, 23, he/him, from Italy. 
 
