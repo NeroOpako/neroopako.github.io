@@ -28,6 +28,11 @@ I’m always down for some recs!
 I listen to pretty much everything, from Pop, Electronica, J-Pop, Rock, Metal. My fav band is **Linkin Park**, my fav song by them is Waiting for the End, though Iridescent is a close second. Other bands/artists I like are **Insomnium** (Metal), **One Ok Rock** (Rock), **Creepy Nuts** (**J**-Rap), **Faux Tales** (Electronica).
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JHNg1hxZFT7TDEphhM4wj?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Uq3fEihBEjzWX4KVYCZ8Q?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1pVz3rceiJP0sHgM3bGnAU?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UJsBrTgje4KGR7eqzW2mI?utm_source=generator&amp;theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zyYuCvSOtAt0IGdOU5kCs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 
