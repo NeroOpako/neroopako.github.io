@@ -24,6 +24,8 @@ I’m a silver player on OW though I mostly play QP and arcade now. I love playi
 Thriller/Psychological/Drama are my fav genres, I also don’t mind watching SoL. **Death Parade** is my favorite, while **Rakugo Shinjuu** and **Sangatsu no Lion** are in 2nd and 3rd place. Other favs are: **Kaze ga Tsuyoku Fuite Iru**, **Nami yo Kiite Kure**,**Samurai Flamenco**, **Psycho-Pass**, **Kino no Tabi**, **Durarara**. Started rewatching most of my list around a year ago but stopped cause of work. 
 I’m always down for some recs!
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/28223/Death_Parade" data-iframely-url="//iframely.net/H23rPfe"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 ### 🎧Music
 
 I listen to pretty much everything, from Pop, Electronica, J-Pop, Rock, Metal. My fav band is **Linkin Park**, my fav song by them is Waiting for the End, though Iridescent is a close second. Other bands/artists I like are **Insomnium** (Metal), **One Ok Rock** (Rock), **Creepy Nuts** (**J**-Rap), **Faux Tales** (Electronica).
