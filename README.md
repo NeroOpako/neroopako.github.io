@@ -25,6 +25,8 @@ Thriller/Psychological/Drama are my fav genres, I also don’t mind watching SoL
 I’m always down for some recs!
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/28223/Death_Parade" data-iframely-url="//iframely.net/H23rPfe"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu" data-iframely-url="//iframely.net/DySqFhM"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/31646/3-gatsu_no_Lion" data-iframely-url="//iframely.net/G7u60Wi"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 ### 🎧Music
 
