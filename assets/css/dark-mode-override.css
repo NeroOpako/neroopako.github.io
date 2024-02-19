@@ -12,3 +12,13 @@
 .my-5 {
     margin-top: 0px !important;
 }
+
+
+._sc, ._sm {
+    border: none !important;
+    background-color: rgb(40, 40, 40) !important;
+}
+
+.iframely-responsive iframe {
+    border-radius: 10px;
+}
