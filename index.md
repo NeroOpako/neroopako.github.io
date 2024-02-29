@@ -1,6 +1,7 @@
---- 
+---
 layout: darkmode
 permalink: index.html
+share: true
 ---
 # 👨‍💻Hello there!
 ![avatar](https://images.weserv.nl/?url=i.ibb.co/SrpdVfs/24-Feb-27-08-08-08-44.png?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d)
@@ -12,7 +13,7 @@ permalink: index.html
 🔗 Discord: neropako - [Twitter](https://twitter.com/nero_pako) - [Overwatch](https://overwatch.blizzard.com/en-us/career/NeroPako-2725/) - [AniList](https://anilist.co/user/neropako/) - [Spotify](https://open.spotify.com/user/31na63w5bcabctdk6bw6mt4re4y4?si=7281d8978f7f46d5) - [Twitch](https://www.twitch.tv/nero_pako) - [Github](https://github.com/NeroOpako)
 ### 🎮Project Sekai
 
-Been playing since May '21, I like VBS the most. Most liked chars are Toya, An and Haruka. Some Fav OC songs are Beat Eater, Utsuro wo aogu, Awake Now, Infinitely Gray, Bug, Lower, Parasol Cider, Stella, 88. Some fav Vocaloid songs are Tokio Funka, Leia, Cendrillion, Magic Number, Sick of House, Oneself.
+Been playing since May '21, I like VBS the most. Most liked chars are Toya, An and Haruka. Some Fav OC songs are Beat Eater, Utsuro wo aogu, Awake Now, Infinitely Gray, Bug, Lower, Parasol Cider, Stella, 88. Some fav Vocaloid songs are Tokio Funka, Leia, Cendrillion, Magic Number, Sick of House, Oneself. 
 
 ### 🎮Overwatch
 
