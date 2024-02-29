@@ -8,7 +8,7 @@ relative_links:
   collections: false
 include:
   - CONTRIBUTING.md
-  - README.md
+  - index.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
