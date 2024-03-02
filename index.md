@@ -27,7 +27,8 @@ I’m always down for some recs!
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/28223/Death_Parade" data-iframely-url="//iframely.net/H23rPfe"></a></div></div><script async src="//iframely.net/embed.js"></script>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu" data-iframely-url="//iframely.net/DySqFhM"></a></div></div><script async src="//iframely.net/embed.js"></script>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/31646/3-gatsu_no_Lion" data-iframely-url="//iframely.net/G7u60Wi"></a></div></div><script async src="//iframely.net/embed.js"></script>
-
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/35079/Kino_no_Tabi__The_Beautiful_World_-_The_Animated_Series" data-iframely-url="//iframely.net/lFhdDvO"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://myanimelist.net/anime/6746/Durarara" data-iframely-url="//iframely.net/8mRQmiS"></a></div></div><script async src="//iframely.net/embed.js"></script>
 ### 🎧Music
 
 I listen to pretty much everything, from Pop, Electronica, J-Pop, Rock, Metal. My fav band is **Linkin Park**, my fav song by them is Waiting for the End, though Iridescent is a close second. Other bands/artists I like are **Insomnium** (Metal), **One Ok Rock** (Rock), **Creepy Nuts** (**J**-Rap), **Faux Tales** (Electronica).
