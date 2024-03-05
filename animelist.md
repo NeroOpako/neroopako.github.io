@@ -1,6 +1,6 @@
 ---
 layout: darkmode
-permalink: index.html
+permalink: animelist.html
 share: true
 ---
 
