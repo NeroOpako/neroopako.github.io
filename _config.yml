@@ -9,7 +9,6 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - index.md
-  - animelist.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
