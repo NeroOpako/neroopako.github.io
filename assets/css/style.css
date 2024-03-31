@@ -4,8 +4,20 @@
     src: url('../font/Unitblock.otf'); 
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1f1f1f !important;
+        color: #ffffff;
+    }
+
+    a {
+        color: #cc6600;
+    }
+}
+
+
 body {
-    background-color: #1f1f1f !important;
+    background-color: #cc6600 !important;
     color: #ffffff;
     margin: 0;
 }
@@ -6720,8 +6732,8 @@ pre {
     background-color: #cc6600 !important;
  }
 
-a {
-    color: #cc6600;
+ a {
+    color: #1f1f1f !important;
 }
 
 h1 {
