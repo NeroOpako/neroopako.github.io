@@ -9,7 +9,7 @@
     src: url('../font/Unitblock.otf'); 
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     body {
         background-color: var(--secondary-color);
         color: var(--text-color);
@@ -29,6 +29,16 @@
     a {
         color: var(--secondary-color);
     }
+} */
+
+
+body {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+a {
+    color: var(--secondary-color);
 }
 
 
