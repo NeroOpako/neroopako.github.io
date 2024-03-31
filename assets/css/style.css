@@ -41,11 +41,6 @@ a {
     color: var(--secondary-color);
 }
 
-
-.container {
-    margin-left: 1rem;
-}
-
 html {
     font-family: unitblock;
     -ms-text-size-adjust: 100%;
