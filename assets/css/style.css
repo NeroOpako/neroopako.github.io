@@ -25,14 +25,18 @@ html {
 }
 
 h1 {
-    font-size: 5em !important;
-    margin: 0px !important;
+    font-size: 5em;
+    margin: 0px;
 }
 
 h2 {
-    font-size: 1.5em !important;
-    margin-top: 0.4em !important;
-    margin-bottom: 0px !important;
+    font-size: 1.5em;
+    margin-top: 0.4em;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin: 0px;
 }
 
 a {
@@ -47,10 +51,10 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 7px;
+    gap: 10px;
     justify-content: center;
     align-items: center;
-    width: 25%;
+    width: 30%;
 }
 
 .container  {
@@ -65,3 +69,44 @@ a:hover {
     height: 100%;
     width: 100%;
 }
+
+.container h1, .container h2 {
+    text-shadow:
+    1px 1px 0 var(--accent-color),
+  -1px -1px 0 var(--accent-color),  
+   1px -1px 0 var(--accent-color),
+   -1px 1px 0 var(--accent-color),
+    1px 1px 0 var(--accent-color);
+}
+
+
+
+.box {
+    position: absolute;
+    bottom: 1px;
+    width: 99vw;
+    height: 100vh;
+    z-index: -1;
+    background: linear-gradient(
+     135deg,
+      #ffffff 10%,
+      transparent 10%,
+      transparent 50%,
+      #ffffff 50%,
+      #ffffff 60%,
+      transparent 60%,
+      transparent 100%
+    );
+    background-size: 640px 640px;
+    transform: rotate(calc(var(i--) 0deg));
+    animation: animate 20s linear infinite;
+  }
+  
+  @keyframes animate {
+    0% {
+      background-position: 0;
+    }
+    100% {
+      background-position: 640px;
+    }
+  }
