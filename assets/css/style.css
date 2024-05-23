@@ -25,17 +25,18 @@ html {
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 8em;
     margin: 0px;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 3em;
     margin-top: 0.4em;
     margin-bottom: 0px;
 }
 
 h3 {
+    font-size: 2em;
     margin: 0px;
 }
 
@@ -84,7 +85,8 @@ a:hover {
 .box {
     position: absolute;
     bottom: 1px;
-    width: 99vw;
+    right: 1px;
+    width: 100vw;
     height: 100vh;
     z-index: -1;
     background: linear-gradient(
@@ -98,7 +100,6 @@ a:hover {
       transparent 100%
     );
     background-size: 640px 640px;
-    transform: rotate(calc(var(i--) 0deg));
     animation: animate 20s linear infinite;
   }
   
