@@ -67,6 +67,10 @@ a:hover {
     font-size: 5.1em;
 }
 
+.heading h2:has(a) {
+    font-size: 3em;
+}
+
 .heading h3 {
     margin-bottom: -1.2em;
     font-size: 1.5em;
@@ -87,6 +91,9 @@ a:hover {
     .heading h3 {
         font-size: 2em;
         margin-bottom: -1.8em;
+    }
+    .heading h2:has(a) {
+        font-size: 5em;
     }
     
 }
