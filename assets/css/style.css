@@ -31,12 +31,11 @@ h1 {
 
 h2 {
     font-size: 2em;
-    margin-top: 0.4em;
-    margin-bottom: 0px;
+    margin: 0px;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 0px;
 }
 
@@ -71,7 +70,7 @@ a:hover {
     width: 100%;
 }
 
-.container h3 {
+.container h2 {
     text-shadow:
     1px 1px 0 var(--accent-color),
   -1px -1px 0 var(--accent-color),  
