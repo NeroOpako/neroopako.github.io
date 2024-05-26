@@ -1,7 +1,7 @@
 :root {
     --accent-color: #cc6600;
-    --secondary-color: #1f1f1f;
-    --text-color: #ffffff;
+    --secondary-color: #ffffff;
+    --text-color: #1f1f1f;
 }
 
 @font-face { 
@@ -25,12 +25,12 @@ html {
 }
 
 h1 {
-    font-size: 8em;
+    font-size: 5em;
     margin: 0px;
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 2em;
     margin-top: 0.4em;
     margin-bottom: 0px;
 }
@@ -71,7 +71,7 @@ a:hover {
     width: 100%;
 }
 
-.container h1, .container h2 {
+.container h3 {
     text-shadow:
     1px 1px 0 var(--accent-color),
   -1px -1px 0 var(--accent-color),  
@@ -91,16 +91,16 @@ a:hover {
     z-index: -1;
     background: linear-gradient(
      135deg,
-      #ffffff 10%,
+     var(--secondary-color) 10%,
       transparent 10%,
       transparent 50%,
-      #ffffff 50%,
-      #ffffff 60%,
+      var(--secondary-color) 50%,
+      var(--secondary-color)  60%,
       transparent 60%,
       transparent 100%
     );
     background-size: 640px 640px;
-    animation: animate 20s linear infinite;
+    animation: animate 60s linear infinite;
   }
   
   @keyframes animate {
