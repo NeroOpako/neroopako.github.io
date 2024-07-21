@@ -18,6 +18,10 @@ a {
     color: var(--secondary-color);
 }
 
+.title a {
+    color: var(--text-color);
+}
+
 html {
     font-family: unitblock;
     -ms-text-size-adjust: 100%;
