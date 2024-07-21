@@ -82,9 +82,9 @@ a:hover {
 .container {
     display: flex;
     flex-direction: column;
-    position: absolute;
-    width: 99%;
-    height: 100%;
+    width: auto;
+    height: auto;
+    align-self: center;
     align-items: center;
     justify-content: center;
     gap: 1vw;
