@@ -46,22 +46,26 @@ h4:not(.title h4)::first-letter {
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 10vw;
     margin: 0px;
 }
 
 h2 {
-    font-size: 4em;
+    font-size: 3vw;
     margin: 0px;
 }
 
+.heading h3 {
+    font-size: 1em;
+}
+
 h3 {
-    font-size: 1.5em;
-    margin-bottom: -1em;
+    font-size: 3vw;
+    margin: 0px;
 }
 
 h4 {
-    font-size: 2em;
+    font-size: 2vw;
     margin: 0px;
     text-align: center;
 }
@@ -99,6 +103,7 @@ a:hover {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    width: 80%;
 }
 
 .title-container {
@@ -112,35 +117,9 @@ a:hover {
     display: flex;
     flex-direction: row;
     align-items: baseline;
-    text-wrap: nowrap;
-}
-
-.title h1 {
-    font-size: 4.5em;
+    justify-content: center;
 }
 
 .title h2 {
-    font-size: 1.5em;
     color: var(--secondary-color);
-}
-
-@media screen and (min-width: 760px) {
-    .title h1 {
-        font-size: 10em;
-    }
-    .title h2 {
-        font-size: 4em;
-    }
-    .heading h3 {
-        font-size: 2em;
-        margin-bottom: -1.8em;
-    }
-    .heading h2:has(a) {
-        font-size: 5em;
-    }
-
-    .h4 {
-        font-size: 2em;
-    }
-    
 }
