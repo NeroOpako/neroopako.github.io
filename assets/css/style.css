@@ -4,6 +4,13 @@
     --text-color: #1f1f1f;
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --accent-color: #1f1f1f;
+        --text-color: #cc6600;
+    }
+}
+
 @font-face { 
     font-family: unitblock; 
     src: url('../font/Unitblock.otf') 

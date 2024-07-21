@@ -35,19 +35,12 @@
         </div>
 
         <script>
-            var nightModeEnabled = true;
             var r = document.querySelector(':root');
             function toggleNightMode() {
-                nightModeEnabled = !nightModeEnabled;
-                if(nightModeEnabled) {
-                    r.style.setProperty('--accent-color', '#1f1f1f');
-                    r.style.setProperty('--text-color', '#cc6600');
-                } else {
-                    r.style.setProperty('--text-color', '#1f1f1f');
-                    r.style.setProperty('--accent-color', '#cc6600');
-                }
+                let textColor = getComputedStyle(r).getPropertyValue('--accent-color');
+                r.style.setProperty('--accent-color', getComputedStyle(r).getPropertyValue('--text-color'));
+                r.style.setProperty('--text-color',  textColor);
             }
-            toggleNightMode();
         </script>
     </body>
 </html>
