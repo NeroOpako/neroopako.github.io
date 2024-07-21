@@ -73,7 +73,7 @@ a:hover {
 }
 .links-container {
     display: flex;
-    width: 50%;
+    width: 80%;
     flex-wrap: wrap;
     gap: 2vw;
     flex-direction: row;
