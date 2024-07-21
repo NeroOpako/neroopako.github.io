@@ -1,7 +1,7 @@
 :root {
-    --accent-color: #1f1f1f;
+    --accent-color: #cc6600;
     --secondary-color: #ffffff;
-    --text-color: #cc6600;
+    --text-color: #1f1f1f;
 }
 
 @font-face { 
@@ -53,6 +53,14 @@ a:hover {
     position: absolute;
     bottom: 1px;
     margin-left: 5px;
+}
+
+.extra {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 1px;
+    margin-right: 5px;
 }
 
 .title {
