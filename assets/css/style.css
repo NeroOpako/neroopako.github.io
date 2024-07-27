@@ -65,12 +65,12 @@ h4 {
 }
 
 
-a {
+a, a:focus, a:hover {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline none;
+*:has(a:hover) {
+    border-color: var(--secondary-color) !important;
 }
 
 .container {
