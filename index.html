@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-US"><head>
+<html lang="en-US" data-theme="light"><head>
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="X-UA-Compatible" content="E=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-new-32x32.png?v2">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-new-16x16.png?v2">
@@ -11,40 +11,43 @@
     </head>
     <body> 
         <div class="container">
-            <div class="heading">
-                <div class="title-container">
-                    <div class="title">
-                        <a href="#" onclick="toggleNightMode(); return false;">
-                            <h1>neropako</h1>
-                        </a>
-                        <h2>.im</h2>
+            <div class="items-container">
+                <a href="#" onclick="toggleNightMode(); return false;" class="title-container">
+                    <div class="title-header">
+                        <h1>neropako</h1><h2>.im</h2>
                     </div>
-                    <h2>he/him | 24 | Italy</h2>
+                    <h4>he/him | 24 | Italy</h4>
+                </a>
+            </div>
+            <div class="items-container">
+                <h2>Links</h2>
+                <div class="items">
+                    <h2><a href="mailto:hey@neropako.im">Mail</a></h2>
+                    <h2><a href="https://github.com/NeroOpako">Github</a></h2>
+                    <h2><a href="https://anilist.co/user/neropako/">AniList</a></h2>
+                    <h2><a href="https://twitter.com/nero_pako">Twitter</a></h2>
+                    <h2><a href="https://www.last.fm/user/neropako">Last.fm</a></h2>
+                    <h2><a href="https://overwatch.blizzard.com/en-us/career/NeroPako-2725/">Overwatch</a></h2>
                 </div>
+               
             </div>
-            <h2>LINK</h2>
-            <div class="links-container">
-                <h2><a href="mailto:hey@neropako.im">Mail</a></h2>
-                <h2><a href="https://github.com/NeroOpako">Github</a></h2>
-                <h2><a href="https://anilist.co/user/neropako/">AniList</a></h2>
-                <h2><a href="https://twitter.com/nero_pako">Twitter</a></h2>
-                <h2><a href="https://www.last.fm/user/neropako">Last.fm</a></h2>
-                <h2><a href="https://overwatch.blizzard.com/en-us/career/NeroPako-2725/">Overwatch</a></h2>
-            </div>
-            <h2>COOL STUFF</h2>
-            <div class="links-container"> 
-                <h4><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral">What is the significance of the character "j" at the end of a Roman Numeral?</a></h4>
-                <h4><a href="https://www.youtube.com/watch?v=vi8pyS076a8&pp=ygUTamFwYW5lc2Ugd2ViIGRlc2lnbg%3D%3D">Japanese web design: weird, but it works. Here's why</a></h4>
+            <div class="items-container">
+                <h2>Cool stuff</h2>
+                <div class="items">
+                    <h4><a href="https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral">What is the significance of the character "j" at the end of a Roman Numeral?</a></h4>
+                    <h4><a href="https://www.youtube.com/watch?v=vi8pyS076a8&pp=ygUTamFwYW5lc2Ugd2ViGRlc2lnbg%3D%3D">Japanese web design: weird, but it works. Here's why</a></h4>
+                </div>
             </div>
         </div>
         
+        
         <script>
-            var r = document.querySelector(':root');
-            function toggleNightMode() {
-                let textColor = getComputedStyle(r).getPropertyValue('--accent-color');
-                r.style.setProperty('--accent-color', getComputedStyle(r).getPropertyValue('--text-color'));
-                r.style.setProperty('--text-color',  textColor);
+            function toggleNightMode(darkMode) {
+                let newTheme = (localStorage.getItem("theme") || (darkMode ? "dark" : "light")) == "dark" ? "light" : "dark";
+                document.querySelector("html").setAttribute("data-theme", newTheme);
+                localStorage.setItem("theme", newTheme);
             }
+            toggleNightMode(window.matchMedia("(prefers-color-scheme: dark)").matches);
         </script>
     </body>
 </html>

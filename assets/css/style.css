@@ -1,33 +1,23 @@
 :root {
-    --accent-color: #cc6600;
     --secondary-color: #ffffff;
+}
+
+[data-theme="light"] {
+    --accent-color: #cc6600;
     --text-color: #1f1f1f;
+    --border-color: black;
+}
+  
+[data-theme="dark"] {
+    --accent-color: #1f1f1f;
+    --text-color: #cc6600;
+    --border-color: #cc6600;
 }
 
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --accent-color: #1f1f1f;
-        --text-color: #cc6600;
-    }
-}
 
 @font-face { 
     font-family: unitblock; 
     src: url('../font/Unitblock.otf') 
-}
-
-body {
-    background-color: var(--accent-color);
-    color: var(--text-color);
-}
-
-a {
-    color: var(--secondary-color);
-}
-
-.title a {
-    color: var(--text-color);
 }
 
 html {
@@ -37,31 +27,35 @@ html {
     height: 100%;
 }
 
-h2:not(.title-container h2)::first-letter {
+
+body {
+    background-color: var(--accent-color);
     color: var(--text-color);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 99%;
+    height: 99%;
 }
 
-h4:not(.title h4)::first-letter {
-    color: var(--text-color);
+a {
+    color: var(--secondary-color);
 }
 
 h1 {
     font-size: 10.25vw;
     margin: 0px;
+    text-align: center;
 }
 
-h2 {
+h2{
     font-size: 3.25vw;
     margin: 0px;
+    text-align: center;
 }
 
-.heading h3 {
-    font-size: 1.25em;
-}
-
-h3 {
-    font-size: 3.25vw;
-    margin: 0px;
+h1:not(.title-header h1), h2:not(.title-header h2) {
+    flex:1;
 }
 
 h4 {
@@ -76,75 +70,82 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline none;
 }
 
 .container {
     display: flex;
     flex-direction: column;
-    width: auto;
-    height: auto;
-    align-self: center;
-    align-items: center;
     justify-content: center;
     gap: 1vw;
-    right: 1px;
-    bottom: 1px;
     padding-bottom: 30px;
-}
-
-.heading {
-    display: flex;
-    flex-direction: column;
-}
-.links-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2vw;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
     width: 80%;
 }
 
-.title-container {
+.items-container {
     display: flex;
     flex-direction: column;
-    text-wrap: nowrap;
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: stretch;
+    gap: 2vw;
 }
 
-
-.title {
+.items {
     display: flex;
-    flex-direction: row;
-    align-items: baseline;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: stretch;
+    gap: 2vw;
 }
 
-.title-container h2 {
-    color: var(--secondary-color);
+.items > *, .title-info > h2 {
+    border-radius: 5px;
+    border: dotted var(--border-color);
+    align-content: center;
+    text-align: center;
+    padding: 1vw;
 }
 
-@media screen and (max-width: 1260px) {
+.title-header {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.title-header h1 {
+    color: var(--text-color);
+}
+
+.title-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vw;
+}
+
+h2:not(.title-container h2):first-letter {
+    color: var(--text-color);
+}
+
+h4:not(.title-container h4)::first-letter {
+    color: var(--text-color);
+}
+
+@media screen and (max-width: 1000px) {
     
 
-    .links-container {
-        flex-direction: column;
-    }
-
-    .title-container > h2 {
-        font-size: 1.5em;
+    .container {
+        flex-direction: row;
+        flex-wrap: wrap;
     }
 
     h1 {
-        font-size: 5em;
+        font-size: 20vw;
         margin: 0px;
     }
-    
+
     h2 {
-        font-size: 3em;
+        font-size: 13vw;
         margin: 0px;
     }
     
@@ -153,12 +154,12 @@ a:hover {
     }
     
     h3 {
-        font-size: 2em;
+        font-size: 13vw;
         margin: 0px;
     }
     
     h4 {
-        font-size: 2em;
+        font-size: 8vw;
         margin: 0px;
     }
     
