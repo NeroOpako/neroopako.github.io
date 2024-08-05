@@ -104,12 +104,19 @@ a:hover {
     gap: 2vw;
 }
 
+.items.links {
+    flex-direction: column;
+}
+
 .items > * {
     border-bottom: solid 5px var(--border-color);
     align-content: start;
-    text-align: start;
-    width: 100%;
+    text-align: start; 
     padding: 2vw;
+}
+
+.items:not(.items.links) > * {
+    width: 100%;
 }
 
 .items > *:not(.title) {
@@ -126,6 +133,10 @@ h1:not(.items.header h1)::first-letter , h2:not(.items.header h2):first-letter ,
 
 @media screen and (max-width: 700px) {
     
+    body {
+        width: 98%;
+    }
+
     a {
         flex:none;
     }
