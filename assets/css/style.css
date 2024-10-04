@@ -110,17 +110,14 @@ a:hover {
 
 .items > * {
     border-bottom: solid 5px var(--border-color);
-    align-content: start;
-    text-align: start; 
-    padding: 2vw;
+    transition: 0.5s;
+    align-content: center;
+    text-align: center; 
+    padding: 1vh;
 }
 
 .items:not(.items.links) > * {
     width: 100%;
-}
-
-.items > *:not(.title) {
-    border-left: solid 5px var(--border-color);
 }
 
 h1:not(.items.header h1)::first-letter , h2:not(.items.header h2):first-letter , h4:not(.items.header h4)::first-letter {
@@ -129,6 +126,16 @@ h1:not(.items.header h1)::first-letter , h2:not(.items.header h2):first-letter ,
 
 .items.header h1 , .items.header h2 , .items.header h4 {
     color: var(--text-color);
+}
+
+.stroke {
+    stroke: transparent;
+    fill: white;
+}
+
+.fill {
+    stroke: white;
+    fill: transparent;
 }
 
 @media screen and (max-width: 700px) {
