@@ -95,6 +95,10 @@ a, a:hover {
     padding-left: 1vw;
     
 }
+.items.links > *   {
+    width: 100%;
+}
+
 
 .items.header h1 , .items.header h2 , .items.header h4 {
     color: var(--text-color);
