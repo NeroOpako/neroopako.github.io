@@ -8,7 +8,6 @@
 @font-face { 
     font-family: unitblock; 
     src: url('../font/Unitblock.otf');
-    -webkit-font-smoothing: antialiased;
 }
 
 
@@ -140,6 +139,12 @@ a, a:hover {
 
 ::marker { 
     display:none; 
+}
+
+details summary::-webkit-details-marker,
+details summary::marker {
+ display: none; 
+ content: "";
 }
 
 details > summary {
