@@ -90,7 +90,7 @@ a, a:hover {
     flex-direction: column;
 }
 
-.items.links > * , .items.socials > *  {
+.items.links > * , .items.socials   {
     border-left: 5px solid var(--text-color);
     padding-left: 1vw;
     
