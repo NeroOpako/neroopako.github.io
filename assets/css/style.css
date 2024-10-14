@@ -7,7 +7,8 @@
 
 @font-face { 
     font-family: unitblock; 
-    src: url('../font/Unitblock.otf') 
+    font-display: swap;
+    src: url('../font/Unitblock.otf');
 }
 
 html {
