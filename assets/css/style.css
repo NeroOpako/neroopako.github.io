@@ -137,7 +137,9 @@ a, a:hover {
     transition: border-left 0.2s;
 }
 
-
+::marker { 
+    display:none; 
+}
 
 details > summary {
     cursor: pointer;
